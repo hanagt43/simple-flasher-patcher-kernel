@@ -1,5 +1,5 @@
 # 🌸 Simple Flasher Patcher Kernel  
-### by @hanagt43
+
 
 Simple Flasher Patcher Kernel is a simple yet powerful Windows application  
 for patching, repacking, and flashing Android kernels (boot.img / image)  
