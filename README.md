@@ -57,4 +57,3 @@ This application is suitable for:
 4. The patch results will be located at:  
 
 
-Translated with DeepL.com (free version)
